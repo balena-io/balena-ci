@@ -70,7 +70,7 @@
     "@actions/core": "^1.10.1",
     "@actions/exec": "^1.1.1",
     "@actions/github": "^6.0.0",
-    "balena-sdk": "^20.0.0"
+    "balena-sdk": "^21.0.0"
   },
   "versionist": {
     "publishedAt": "2022-10-06T22:08:44.879Z"
